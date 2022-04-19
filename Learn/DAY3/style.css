@@ -1,0 +1,32 @@
+h1{
+    color: red;
+    background-color: black;
+}
+body{
+    background-color: white;
+}
+div{
+    border: 2px solid gray;
+    margin-top: 25px;
+    margin-left: 100px;
+    margin-right: 100px;
+    padding: 10px;
+    background-color: lightgray;
+}
+table{
+    border-collapse: collapse;
+    border: 1px solid gray;
+    width: 500px;
+    height: 200px;
+}
+th{
+    border: 1px solid gray;
+}
+td{
+    vertical-align: center;
+    text-align: left;
+    padding-left: 50px;
+}
+tr:hover{
+    background-color: lightgray;
+}

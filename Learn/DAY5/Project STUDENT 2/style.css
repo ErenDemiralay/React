@@ -1,0 +1,43 @@
+.Subtitle{
+    margin-left: 150px;
+    margin-bottom: 50px;
+}
+h1{
+    text-align: center;
+}
+.Başlık{
+    color: #2F184B;
+    margin-top: 50px;
+    font-size: 100px;
+}
+.cardcontrol{
+    margin-bottom: 100px;
+    padding: 30px;
+    width: 380px;
+    border-radius: 40px;
+}
+.buttoncontrol{
+    background-color:#C8B1E4;
+    border-radius: 15px;
+}
+.form-control:focus { 
+    outline: none !important;
+    border-color: #2F184B;
+    box-shadow: 0 0 10px #2F184B;
+ }
+ .save:focus{
+    outline: none !important;
+    border-color: #2F184B;
+    box-shadow: 0 0 10px #2F184B;
+ }
+.form-control{
+    border: 2px solid #2F184B;
+}
+.form-control:enabled{
+    background-color:#9B72CF;
+}
+.save{
+    font-family:'Arial Narrow Bold', sans-serif;
+    border: 2px solid #2F184B;
+    font-size: 20px;
+}
