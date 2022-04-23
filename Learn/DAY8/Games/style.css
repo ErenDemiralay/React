@@ -1,0 +1,25 @@
+.img-fluid{
+   height: 50%;
+   width: 100%;
+}
+.banner-image h1{
+    position: absolute;
+    color: white;
+    top: 220px;
+    left: 580px;
+}
+.img-container{
+    float: left;
+    width: 33.2%;
+    padding: 30px;
+}
+.card-image{
+  transition: transform .2s; /* Animation */
+  margin: 0 auto;
+}
+.card-image:hover{
+    transform: scale(1.1);
+}
+.form{
+    margin: 30px;
+}
